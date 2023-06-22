@@ -49,7 +49,7 @@ Sinta-se avontade para enviar seu feedback!
 ## EN
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Frontend Mentor - Order Summary Component
+# Frontend Mentor - NFT Preview Card Component
 Hello! <br>
 Welcome to my solution to the NFT Preview Card Component challenge proposed by Frontend Mentor (https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub) . This Readme will serve as your guide to understanding this project. It will be based on the template provided by the Frontend Mentor platform itself.
 <br>
