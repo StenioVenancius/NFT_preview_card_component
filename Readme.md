@@ -1,11 +1,11 @@
 ## Pt-Br
 ------------------------------------------------------------------------------------------------------------------------------------------------ 
 # Frontend Mentor - Solução do Componente do Cartão de Visualização NFT
-Olá! <br>
-Seja muito bem-vindo(a) a minha solução para o desafio do Componente do Cartão de Visualização NFT proposto pelo Frontend Mentor (https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub). Este Readme servirá como seu guia para o entendimento deste projeto. Ele terá como base o template disponiblizado pela própria plataforma do Frontend Mentor.
-<br>
-Sem mais delongas, quero agradeço por disponibiliziar um pouco do seu tempo visitando o meu projeto!
-Todo feedback é bem-vindo!!
+    Olá! <br>
+    Seja muito bem-vindo(a) a minha solução para o desafio do Componente do Cartão de Visualização NFT proposto pelo Frontend Mentor (https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub). Este Readme servirá como seu guia para o entendimento deste projeto. Ele terá como base o template disponiblizado pela própria plataforma do Frontend Mentor.
+    <br>
+    Sem mais delongas, quero agradeço por disponibiliziar um pouco do seu tempo visitando o meu projeto!
+    Todo feedback é bem-vindo!!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -50,11 +50,11 @@ Sinta-se avontade para enviar seu feedback!
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Frontend Mentor - NFT Preview Card Component
-Hello! <br>
-Welcome to my solution to the default NFT Preview Card Component challenge by Frontend Mentor (https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub) . This Readme will serve as your guide to understanding this project. It will be based on the template provided by the Frontend Mentor platform itself.
-<br>
-Without further ado, I want to thank you for taking the time to visit my project!
-All feedback is welcome!
+    Hello! <br>
+    Welcome to my solution to the default NFT Preview Card Component challenge by Frontend Mentor (https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub) . This Readme will serve as your guide to understanding this project. It will be based on the template provided by the Frontend Mentor platform itself.
+    <br>
+    Without further ado, I want to thank you for taking the time to visit my project!
+    All feedback is welcome!!
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Table of contents
